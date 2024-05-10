@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Demo\\curdApi\\CrudApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4934C04-EA2C-4245-B6E7-B8AAD1440CF5}|CrudApi\\CrudApi.csproj|d:\\project\\demo\\curdapi\\crudapi\\crudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4934C04-EA2C-4245-B6E7-B8AAD1440CF5}|CrudApi\\CrudApi.csproj|solutionrelative:crudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4934C04-EA2C-4245-B6E7-B8AAD1440CF5}|CrudApi\\CrudApi.csproj|d:\\project\\demo\\curdapi\\crudapi\\crudapi\\controllers\\employeecontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4934C04-EA2C-4245-B6E7-B8AAD1440CF5}|CrudApi\\CrudApi.csproj|solutionrelative:crudapi\\controllers\\employeecontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4934C04-EA2C-4245-B6E7-B8AAD1440CF5}|CrudApi\\CrudApi.csproj|d:\\project\\demo\\curdapi\\crudapi\\crudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4934C04-EA2C-4245-B6E7-B8AAD1440CF5}|CrudApi\\CrudApi.csproj|solutionrelative:crudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4934C04-EA2C-4245-B6E7-B8AAD1440CF5}|CrudApi\\CrudApi.csproj|d:\\project\\demo\\curdapi\\crudapi\\crudapi\\crudapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4934C04-EA2C-4245-B6E7-B8AAD1440CF5}|CrudApi\\CrudApi.csproj|solutionrelative:crudapi\\crudapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4934C04-EA2C-4245-B6E7-B8AAD1440CF5}|CrudApi\\CrudApi.csproj|d:\\project\\demo\\curdapi\\crudapi\\crudapi\\migrations\\20240510042224_test01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4934C04-EA2C-4245-B6E7-B8AAD1440CF5}|CrudApi\\CrudApi.csproj|solutionrelative:crudapi\\migrations\\20240510042224_test01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4934C04-EA2C-4245-B6E7-B8AAD1440CF5}|CrudApi\\CrudApi.csproj|d:\\project\\demo\\curdapi\\crudapi\\crudapi\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4934C04-EA2C-4245-B6E7-B8AAD1440CF5}|CrudApi\\CrudApi.csproj|solutionrelative:crudapi\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4934C04-EA2C-4245-B6E7-B8AAD1440CF5}|CrudApi\\CrudApi.csproj|d:\\project\\demo\\curdapi\\crudapi\\crudapi\\data\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4934C04-EA2C-4245-B6E7-B8AAD1440CF5}|CrudApi\\CrudApi.csproj|solutionrelative:crudapi\\data\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4934C04-EA2C-4245-B6E7-B8AAD1440CF5}|CrudApi\\CrudApi.csproj|d:\\project\\demo\\curdapi\\crudapi\\crudapi\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4934C04-EA2C-4245-B6E7-B8AAD1440CF5}|CrudApi\\CrudApi.csproj|solutionrelative:crudapi\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\Demo\\curdApi\\CrudApi\\CrudApi\\Program.cs",
+              "RelativeDocumentMoniker": "CrudApi\\Program.cs",
+              "ToolTip": "D:\\Project\\Demo\\curdApi\\CrudApi\\CrudApi\\Program.cs",
+              "RelativeToolTip": "CrudApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:14:56.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeControllers.cs",
+              "DocumentMoniker": "D:\\Project\\Demo\\curdApi\\CrudApi\\CrudApi\\Controllers\\EmployeeControllers.cs",
+              "RelativeDocumentMoniker": "CrudApi\\Controllers\\EmployeeControllers.cs",
+              "ToolTip": "D:\\Project\\Demo\\curdApi\\CrudApi\\CrudApi\\Controllers\\EmployeeControllers.cs",
+              "RelativeToolTip": "CrudApi\\Controllers\\EmployeeControllers.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:29:21.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240510042224_Test01.cs",
+              "DocumentMoniker": "D:\\Project\\Demo\\curdApi\\CrudApi\\CrudApi\\Migrations\\20240510042224_Test01.cs",
+              "RelativeDocumentMoniker": "CrudApi\\Migrations\\20240510042224_Test01.cs",
+              "ToolTip": "D:\\Project\\Demo\\curdApi\\CrudApi\\CrudApi\\Migrations\\20240510042224_Test01.cs",
+              "RelativeToolTip": "CrudApi\\Migrations\\20240510042224_Test01.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:22:25.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrudApi.csproj",
+              "DocumentMoniker": "D:\\Project\\Demo\\curdApi\\CrudApi\\CrudApi\\CrudApi.csproj",
+              "RelativeDocumentMoniker": "CrudApi\\CrudApi.csproj",
+              "ToolTip": "D:\\Project\\Demo\\curdApi\\CrudApi\\CrudApi\\CrudApi.csproj",
+              "RelativeToolTip": "CrudApi\\CrudApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T04:22:24.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\Demo\\curdApi\\CrudApi\\CrudApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudApi\\appsettings.json",
+              "ToolTip": "D:\\Project\\Demo\\curdApi\\CrudApi\\CrudApi\\appsettings.json",
+              "RelativeToolTip": "CrudApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-10T04:16:20.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\Project\\Demo\\curdApi\\CrudApi\\CrudApi\\Context\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "CrudApi\\Context\\MyDbContext.cs",
+              "ToolTip": "D:\\Project\\Demo\\curdApi\\CrudApi\\CrudApi\\Context\\MyDbContext.cs",
+              "RelativeToolTip": "CrudApi\\Context\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:12:41.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "D:\\Project\\Demo\\curdApi\\CrudApi\\CrudApi\\Data\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "CrudApi\\Data\\EmployeeRepo.cs",
+              "ToolTip": "D:\\Project\\Demo\\curdApi\\CrudApi\\CrudApi\\Data\\EmployeeRepo.cs",
+              "RelativeToolTip": "CrudApi\\Data\\EmployeeRepo.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwCcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:11:50.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Project\\Demo\\curdApi\\CrudApi\\CrudApi\\Data\\Employee.cs",
+              "RelativeDocumentMoniker": "CrudApi\\Data\\Employee.cs",
+              "ToolTip": "D:\\Project\\Demo\\curdApi\\CrudApi\\CrudApi\\Data\\Employee.cs",
+              "RelativeToolTip": "CrudApi\\Data\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:10:08.165Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
