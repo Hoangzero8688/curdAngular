@@ -40,6 +40,7 @@ namespace CrudApi.Data
             employeee.Phone = model.Phone;
             employeee.Age = model.Age;
             employeee.Salary = model.Salary;
+            employeee.Password = model.Password;
             await _appDbContext.SaveChangesAsync();
         }
 
